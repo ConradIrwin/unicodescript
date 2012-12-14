@@ -1,0 +1,8 @@
+setup.py
+unicodescript/Scripts.txt
+unicodescript/__init__.py
+unicodescript/__init__.pyc
+unicodescript/createScripts.py
+unicodescript/createScripts.sh
+unicodescript/scripts.txt
+unicodescript/testUnicodescript.py
